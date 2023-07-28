@@ -1,0 +1,17 @@
+body {
+  background-color: #E5E5E5;  
+}
+
+/* About me */
+
+.my-profession {
+    margin: 18px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.project-item {
+    background-color: yellow;
+}
