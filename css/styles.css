@@ -1,11 +1,32 @@
 body {
-  background-color: #E5E5E5;  
+  font-family: 'Monserrat', sans-serif;
+  background-color: #E5E5E5; 
+  padding: 40px; 
+}
+
+.wrapper {
+display: flex;
+flex-direction: row-reverse;
+background: #fff;
+width: 1200px;
+margin: 0 auto;
+}
+/* Main content */
+
+.main-content {
+    /* padding-top: 88px;
+    padding-bottom: 88px;
+    padding-left: 88px;
+    padding-right: 88px; */
+
+    /* padding: 88px 88px 88px 88px; */
+    padding: 88px;
 }
 
 /* About me */
 
 .my-profession {
-    margin: 18px;
+    padding-bottom: 18px;
 }
 
 h2 {
