@@ -1,38 +1,26 @@
 body {
   font-family: 'Monserrat', sans-serif;
   background-color: #E5E5E5; 
-  padding: 40px; 
+  padding: 40px 40px 40px 40px; 
 }
 
-.wrapper {
+.wraper {
 display: flex;
 flex-direction: row-reverse;
 background: #fff;
 width: 1200px;
 margin: 0 auto;
+padding: 40px 40px 40px 40px; 
 }
 /* Main content */
-
+.side-bar {
+    padding: 40px 40px 40px 40px;
+    background: #E5E5E5;
+}
 .main-content {
-    /* padding-top: 88px;
-    padding-bottom: 88px;
-    padding-left: 88px;
-    padding-right: 88px; */
-
-    /* padding: 88px 88px 88px 88px; */
-    padding: 88px;
+    padding: 88px 88px 88px 88px; 
+    box-sizing: border-box;
 }
 
-/* About me */
 
-.my-profession {
-    padding-bottom: 18px;
-}
 
-h2 {
-    font-size: 35px;
-}
-
-.project-item {
-    background-color: yellow;
-}
